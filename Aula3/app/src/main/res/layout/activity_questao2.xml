@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    android:gravity="center"
+    tools:ignore="ContentDescription"
+    tools:context=".Questao2">
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageOnibus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/onibus" />
+
+        <ImageView
+            android:id="@+id/imageAviao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/aviao" />
+
+        <ImageView
+            android:id="@+id/imageBairros"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/bairros" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageTurismo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/turismo" />
+
+        <ImageView
+            android:id="@+id/imageTaxi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/taxi" />
+
+        <ImageView
+            android:id="@+id/imageTelefone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/telefone" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageCultura"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/cultura" />
+
+        <ImageView
+            android:id="@+id/imageFeriados"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/feriados" />
+
+        <ImageView
+            android:id="@+id/imageSAC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            app:srcCompat="@drawable/sac" />
+    </TableRow>
+</TableLayout>
