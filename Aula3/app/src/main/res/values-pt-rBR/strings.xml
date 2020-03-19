@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="questao1_valorinicial">Valor Inicial:</string>
+    <string name="questao1_hintVI">Valor em R$. Ex: 1700.00</string>
+    <string name="questao_aplicacaomensal">Aplicação Mensal:</string>
+    <string name="questao1_hintAM">Ex: 100.00</string>
+    <string name="questao1_tempo">Tempo da Aplicação:</string>
+    <string name="questao1_hintTA">Em meses</string>
+    <string name="questao1_taxa">Taxa:</string>
+    <string name="questao1_hintT">Ex: 0.02</string>
+    <string name="questao1_botaoCalcular">Calcular</string>
+    <string name="questao1_label">Poupança</string>
+</resources>
