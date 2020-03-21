@@ -10,4 +10,11 @@
     <string name="questao1_hintT">E.g.: 0.02</string>
     <string name="questao1_botaoCalcular">Evaluate</string>
     <string name="questao1_label">Savings</string>
+    <string name="questao4_consumo">Total expenditure R$:</string>
+    <string name="questao4_couvert">Artistic couvert R$:</string>
+    <string name="questao4_dividir">Split bill between:</string>
+    <string name="questao4_btnCalcular">Evaluate final bill</string>
+    <string name="questao4_taxa">Service fee(10%) R$:</string>
+    <string name="questao4_total">Bill total R$:</string>
+    <string name="questao4_valorCapita">Amount per person R$:</string>
 </resources>

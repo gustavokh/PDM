@@ -103,7 +103,7 @@
         app:layout_constraintTop_toBottomOf="@+id/inputTempoAplicacao" />
 
     <EditText
-        android:id="@+id/inputTaxa"
+        android:id="@+id/outputTaxa"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
@@ -126,6 +126,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.473"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/inputTaxa"
+        app:layout_constraintTop_toBottomOf="@+id/outputTaxa"
         app:layout_constraintVertical_bias="0.993" />
 </androidx.constraintlayout.widget.ConstraintLayout>

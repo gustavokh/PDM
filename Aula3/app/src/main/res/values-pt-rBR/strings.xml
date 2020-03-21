@@ -10,4 +10,11 @@
     <string name="questao1_hintT">Ex: 0.02</string>
     <string name="questao1_botaoCalcular">Calcular</string>
     <string name="questao1_label">Poupança</string>
+    <string name="questao4_consumo">Consumo total R$:</string>
+    <string name="questao4_couvert">Couvert artístico R$:</string>
+    <string name="questao4_dividir">Dividir conta por:</string>
+    <string name="questao4_btnCalcular">Calcular conta final</string>
+    <string name="questao4_taxa">Taxa de serviço(10%) R$:</string>
+    <string name="questao4_total">Conta total R$:</string>
+    <string name="questao4_valorCapita">Valor por pessoa R$:</string>
 </resources>

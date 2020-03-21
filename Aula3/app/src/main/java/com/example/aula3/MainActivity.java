@@ -41,7 +41,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intent3);
                 break;
             case R.id.button4:
-                Intent intent4 = new Intent(this, null);
+                Intent intent4 = new Intent(this, Questao4.class);
+                startActivity(intent4);
                 break;
         }
     }

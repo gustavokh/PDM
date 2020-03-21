@@ -9,8 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Questao3"
-            android:label="Quiz de trânsito"></activity>
+        <activity android:name=".Questao4"
+            android:label="BalaioDeLenha"></activity>
+        <activity
+            android:name=".Questao3"
+            android:label="Quiz de trânsito" />
         <activity android:name=".Questao2" />
         <activity
             android:name=".Questao1"

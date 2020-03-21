@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="questao4_consumo">Consumo total R$:</string>
+    <string name="questao4_couvert">Couvert artístico R$:</string>
+    <string name="questao4_dividir">Dividir factura entre:</string>
+    <string name="questao4_btnCalcular">Calcular factura final</string>
+    <string name="questao4_taxa">Cuota de servício(10%) R$:</string>
+    <string name="questao4_total">Factura total R$:</string>
+    <string name="questao4_valorCapita">Valor por persona R$:</string>
+</resources>
