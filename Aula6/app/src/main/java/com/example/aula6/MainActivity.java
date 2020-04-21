@@ -30,5 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void exercicio2OnClick(View view) {
+        Intent intent = new Intent(this, Exercicio2Activity.class);
+        startActivity(intent);
     }
 }
