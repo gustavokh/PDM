@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void parte2OnClick(View view) {
-
+        Intent intent = new Intent(this, SlidesParte2Activity.class);
+        startActivity(intent);
     }
 }
