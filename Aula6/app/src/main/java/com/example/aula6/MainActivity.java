@@ -23,4 +23,12 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, SlidesParte2Activity.class);
         startActivity(intent);
     }
+
+    public void exercicio1OnClick(View view) {
+        Intent intent = new Intent(this, Exercicio1Activity.class);
+        startActivity(intent);
+    }
+
+    public void exercicio2OnClick(View view) {
+    }
 }
